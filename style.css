@@ -1,0 +1,36 @@
+body {
+    background-color: plum;
+
+}
+
+.heading {
+    width: 100%;
+    font-size: 25px;
+}
+
+b {
+    font-size: 18px;
+    color: blueviolet;
+
+}
+
+p {
+    font-size: 20px;
+    color: black;
+}
+
+label {
+    background-color: aliceblue;
+    color: magenta;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+}
+
+#camera,
+#result {
+    border: 2px dashed gold;
+    border-radius: 20px;
+    width: 350px;
+    height: 350px;
+}
